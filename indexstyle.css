@@ -1,0 +1,26 @@
+h1 { 
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+    border-width: 5px;
+    border-color: gainsboro;
+    border-style:ridge;
+    }
+    
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    box-shadow: 15px 10px 10px gray;
+}
+
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+.link {
+    text-align: center;
+    font-style: italic;
+    font-size: x-large;
+}
